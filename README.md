@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benichretien
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS/JS/React Js
+- 🌱 I’m currently learning HTML/CSS/JS/React Js/Nodejs
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 

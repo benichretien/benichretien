@@ -12,8 +12,8 @@ development🖥.
  Python ✔
 -------------------------------------------------------------------------------------
  ⚡Currently learning ✍
-  React
-  Nodejs
+  React &
+  NodeJs
 
   
  

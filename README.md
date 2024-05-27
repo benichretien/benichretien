@@ -9,10 +9,9 @@ development🖥.
  CSS ✔
  JavaScript ✔
  SQL ✔
- Python ✔
+ React ✔
 -------------------------------------------------------------------------------------
  ⚡Currently learning ✍
-  React &
   NodeJs
 
   
